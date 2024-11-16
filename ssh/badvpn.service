@@ -1,5 +1,5 @@
 [Unit]
-Description=UDP 7100
+Description=UDP 7100 7200 7300
 Documentation=https://man.archlinux.org/man/community/badvpn/badvpn.7.en
 After=syslog.target network-online.target
 
